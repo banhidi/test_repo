@@ -28,4 +28,4 @@ int main(int argc, char** argv) {
 	if (!ok) {
 		printf("No result found\n");
 	}
-}
+}Szi
